@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap');
+@font-face {
+    font-family: "Grunge Regular";
+    src: url("Grunge Regular.ttf");
+}
+.one{
+    float:left;
+    
+    width: 400px;
+    height: 400px;
+    background-color: rgb(151, 150, 150);
+    margin: 30px;
+    padding: 10px;
+    overflow: scroll;
+    font-size: 64px;
+}
+.two{
+   
+    float: left;
+    right: 320px;
+    width: 400px;
+    height: 400px;
+    background-color:rgb(151, 150, 150);
+    margin: 30px;
+    padding: 10px;
+    font-size: 64px;
+    overflow: scroll;
+}
+.Montserrat{
+    font-family: Montserrat, Verdana;
+   
+}
+.Arial{
+    font-family: Arial;
+    
+}
+.Comfortaa{
+    font-family: Comfortaa;
+    font-weight: 600;
+    
+}
+.Georgia{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+   
+}
+.Garamond{
+    font-family: Garamond, Verdana;
+}
+.Grunge_Regular{
+    font-family: Grunge Regular;
+   
+}
+._600_red{
+    clear: both;
+    width: 600px;
+    height: 600px;
+    background-image: url(1.jpg);
+    float: left ;
+
+}
+._600_green{
+    width: 600px;
+    height: 600px;
+    background-image: url(2.jpg);
+    float: left ;
+}
+._1280_200_blue{
+    clear: both;
+    width: 1200px;
+    height: 200px;
+    float: left ;
+    background-image: url(3.jpg);
+}
+._1280_200_yellou{
+    clear: both;
+    width: 1200px;
+    height: 200px;
+    background-image: url(4.jpg);
+}
+.cont{
+    width: 1280px;
+    height: 960px;
+}
+._1280_200_blue_2
+{   
+    clear: both;
+    width: 1280px;
+    height: 200px;
+    background-image: url(2.2.jpg);
+}
+._600_600_red_2{
+    float:left;
+    clear: both;
+    width: 600px;
+    height: 600px;
+    background-image: url(2.3.jpg);
+}
+._680_300_yellou{
+    float: right;
+    width: 680px;
+    height: 300px;
+    background-image: url(2.4.jpg);
+}
+
+._180_300_fiiil{
+    float: left;
+    width: 180px;
+    height: 300px;
+    background-image: url(2.1.jpg);
+}
+._500_460_green{
+    
+    float: right;
+    width: 500px;
+    height: 460px;
+    background-image: url(2.6.jpg);
+}
+._780_160_fil{
+
+    float: left;
+    width: 780px;
+    height: 160px;
+    background-image: url(2.5.jpg);
+}

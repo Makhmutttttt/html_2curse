@@ -1,0 +1,38 @@
+.block{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin:100px;
+}
+.red:active{
+    border-radius: 30%;
+    
+    background-color: red;
+    transform:scale(2) rotate(45deg);
+    transform-origin: 200% ;
+    transition-property: background-color,width, transform, border-radius;
+
+    transition-duration: 1s ,1s,2s,2s ;
+
+}
+.obito{
+    float:left;
+    
+    width: 400px;
+    height: 800px;
+    background-image: url(image.jpg);
+    margin: 300px;
+    padding: 10px;
+    font-size: 64px;
+}
+@keyframes anim{
+    from{
+    background-color: red;
+}
+50%{
+    background-color: aqua;
+}
+to{
+    background-color: blue;
+}
+}

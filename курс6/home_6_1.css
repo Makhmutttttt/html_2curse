@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.red{
+    background-color:red;
+    padding: 50px;
+    margin: 50px;
+    width: 30px;
+    height: 30px;
+    font-size: 16px;
+    border: 40px solid rgb(117, 12, 12);
+
+}
+.rbgb{
+    background-color:rgb(255, 255, 255);
+    padding: 50px;
+    margin: 50px;
+    width: 60px;
+    height: 60px;
+    font-size: 32px;
+    border: 20px solid ;
+    border-top-color :red ;
+    border-bottom-color :green ;
+    border-right-color :blue ;
+    border-left-color :black
+     ;
+}
+.zig{
+    background-color:rgb(0, 25, 250);
+    padding: 100px;
+    margin: 50px;
+    width: 100px;
+    height: 100px;
+    font-size: 32px;
+    border: 10px  dashed white;
+}
+.fil{
+    background-color:rgb(83, 1, 90);
+    padding: 100px;
+    margin: 50px;
+    width: 100px;
+    height: 100px;
+    font-size: 32px;
+    box-shadow: 0 0 0 10px rgb(90, 1, 75), 0 0 0 20px rgb(48, 1, 41);
+    border: 30px  double rgb(47, 0, 56);
+}
+.gre
+{
+    background-color: blue;
+    padding: 50px;
+    margin: 50px 50px 0px 50px;
+    width: 100px;
+    height: 10px;
+    font-size: 32px;
+    border-width: 60px 60px 0px 60px ;
+    border-style: solid;
+    border-color: rgb(0, 235, 137);
+}
+.inside_l{
+    background-color: rgb(250, 6, 128);
+    padding: 50px;
+    margin: 0px 50px 50px 50px;
+    width: 100px;
+    height: 10px;
+    font-size: 32px;
+    border-width: 0px 60px 60px 60px ;
+    border-style: solid;
+    border-color: rgb(0, 235, 137);
+}

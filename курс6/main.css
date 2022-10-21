@@ -1,0 +1,38 @@
+div{
+    background-color: brown;
+    text-align: center;
+    font-size: 64px;
+    margin: 200px;
+
+}
+span{
+    background-color: coral;
+}
+.block{
+    width: 1000px;
+    height: 2000px;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+.red{
+    background-color: chocolate;
+    padding: 200px;
+    margin: 1000px;
+    
+.blue{
+    background-color: rgb(206, 0, 10);
+    margin: 100px;
+}
+.button{
+    background-color: red;
+
+    height: 50px;
+    width: 50px;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    display: inline-block;
+}

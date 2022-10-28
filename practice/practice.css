@@ -38,11 +38,13 @@ body {
     margin-top: 17px;
 }
 
-.first__login a {
+.first__login a{
     margin-top: 13px;
     display: inline-block;
+    /* тип  */
     margin-right: 55px;
     text-decoration: none;
+    /* эффект подчеркивание */
 }
 
 .first__login .button {
@@ -69,9 +71,11 @@ body {
 }
 
 .link {
-    color: #292929;
-    text-decoration: none;
+    color: #000000;
+    text-decoration:none;
+    /* стить текста */
     transition: all .2s;
+    /* переходы */
     padding-bottom: 4px;
     border-bottom: 1px solid transparent;
 }
@@ -103,7 +107,10 @@ body {
 
 .first__mobile {
     display: none;
+
 }
+
+
 
 @media (max-width: 1024px) {
     .wrapper {

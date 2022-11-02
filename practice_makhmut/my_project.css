@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800;900&family=Roboto:wght@100&display=swap');
 
 * {
     margin: 0;
@@ -34,7 +34,7 @@ body {
 }
 .link {
     color: #18191F;
-    text-decoration: none;
+    /* text-decoration: none; */
     transition: all .2s;
     padding-bottom: 4px;
     border-bottom: 1px solid transparent;
@@ -83,6 +83,7 @@ body {
     padding: 20px 50px;
     width: 196px;
     height: 62px;
+    margin-left: -26px;
 }
 .button:hover {
     background-color: #8C30F5;
@@ -110,13 +111,16 @@ h2{
 .first__content h1 {
     margin-top: 151px;
     margin-bottom: 38px;
+    margin-left: -26px;
+
+
 
 }
 .first__background{
     background-image: url('Background.png');
     width: 1920px;
     height: 860px;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     overflow: hidden;
 }
 .phone{
@@ -160,7 +164,6 @@ h2{
 .lt{
     margin: 0 auto;
     text-align: center;
-
     display: block;
     margin-top: 40px;
     font-size: 18px;
@@ -203,4 +206,137 @@ h2{
     margin-bottom: 10px;
     font-weight: 700;
     font-size: 24px;
+    Align: Left;
 }
+.fonblue{
+    background-image: url( "Rectangle 593 (1).svg");
+    height: 896px;
+    width: 1920px;
+    margin-top: 64px;
+
+
+    /* /////////////////////////////////////////////////////// */
+    float: left;
+    
+}
+.kov{
+    margin-left: 405px;
+    margin-top: 64px;
+    position: relative;
+    z-index: 5;
+}
+.real{
+    position: absolute;
+    margin-top: 120px;
+    margin-left: -50px;
+    display: inline-block;
+    width: 445px;
+    height: 128px;
+    z-index: 15;
+
+}
+.real h2{
+line-height: 64px;
+}
+.air{
+    background-color: #FFFFFF;
+    width: 445px;
+    height: 340px;
+    float: right;
+    margin-right:500px;
+    margin-top: 168px;
+}
+.firm2{
+
+    width:130px;
+    height:40px;
+    margin:30px
+}
+.kov2{
+position: absolute;
+margin-top: 104px;
+margin-left: 32px;   
+}
+.box{
+width: 349px;
+height: 128px;
+
+border-radius: 8px;
+margin-left:64px ;
+margin-top: 10px;
+line-height: 32px;
+
+}
+.ncase{
+   
+    font-size: 18px;
+    line-height: 28px;
+    width: 150px;
+    height: 28px;
+    margin-top: 24px;
+}
+.name{
+    font-weight: 700;
+}
+.namejob{
+    font-weight: 500;
+    font-size: 14px;    
+    line-height: 24px;
+    opacity: 0.5;
+}
+.hub{
+
+    background-color: #FFFFFF;
+    width: 350px;
+    height: 456px;
+    margin-top: 100px;
+    margin-left: 590px;
+    float: left;
+
+}
+.box2{
+    width: 254px;
+    height: 224px;
+    margin-left: 64px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+
+}
+.book{
+    background-color: #FFFFFF;
+    height: 276px;
+    width: 350px;
+    float: right;
+    margin-right: 595px;
+    margin-top: 32px;
+
+}
+.box3{
+    width: 254px;
+    height: 64px;
+    margin-left: 64px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    
+}
+.half{
+    margin-top: 72px;
+    height:1676px;
+    width: 1920px;
+}
+.statistic{
+    width:1110px;
+    height: 172px;
+}
+.our{
+width: 540px;
+height:128px;
+}
+.txt{
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 64px;
+}
+

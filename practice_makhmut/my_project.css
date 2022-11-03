@@ -213,6 +213,7 @@ h2{
     height: 896px;
     width: 1920px;
     margin-top: 64px;
+    margin-bottom: 72px;
 
 
     /* /////////////////////////////////////////////////////// */
@@ -321,22 +322,103 @@ line-height: 32px;
     line-height: 32px;
     
 }
-.half{
-    margin-top: 72px;
-    height:1676px;
-    width: 1920px;
-}
+
 .statistic{
     width:1110px;
     height: 172px;
+    margin:  0 auto;
+    margin-top: 72px;
+    margin-bottom: 144px;
+   
+
 }
 .our{
-width: 540px;
-height:128px;
+    width: 540px;
+    height:128px;
+    float:left;
 }
 .txt{
     font-weight: 800;
     font-size: 48px;
     line-height: 64px;
 }
+.bellow{
+    margin-top: 8px;
+    width: 540px;
+    height: 32px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+}
+.twoicons{
+    width: 540px;
+    height: 172px;
+    margin-left: 30px;
+    display: inline-block;
+
+}
+.four{
+    
+    width:255px;
+    height: 66px;
+    float:left;
+
+}
+.hmany{
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 40px;
+ 
+    width: 192px;
+    height: 40px;
+}
+
+.txttt2{
+    width: 191px;
+    height: 26px;
+}
+.str{
+    float:right ;
+    margin-bottom: 10px;
+}
+.shef img {
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.headline{
+    width: 1062px;
+    height: 540px;
+    margin-top: 144px;
+}
+/* .str{
+    float: right;
+}
+.ic{
+    float: left;
+} */
+
 

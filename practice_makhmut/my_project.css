@@ -322,14 +322,16 @@ line-height: 32px;
     line-height: 32px;
     
 }
-
+/* /////////////////////////////////////////////////////////////////// */
 .statistic{
+
     width:1110px;
     height: 172px;
-    margin:  0 auto;
-    margin-top: 72px;
+
+
+    float: left;
+    margin-left: 405px;
     margin-bottom: 144px;
-   
 
 }
 .our{
@@ -386,39 +388,58 @@ line-height: 32px;
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .headline{
-    width: 1062px;
+    width: 1110px;
     height: 540px;
-    margin-top: 144px;
+    margin-left: 429px;
+
 }
-/* .str{
-    float: right;
+.fifty{
+float: left;
 }
-.ic{
+
+.hline{
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 54px;
+    margin-bottom: 32px;
+    
+
+}
+/* .hline a { */
+    /* float:top; */
+/* } */
+.fif{
     float: left;
-} */
+    width: 540px;
+    height: 540px;
+}
+.herou{
+    width: 1920px;
+    height: 540px;
+    float: left;
+}
+.second{
+    float: right;
+    width: 444px;
+    height: 54px;
+    margin-top: 169px;
+    margin-bottom: 32px;
+}
+.ttex{
 
+    width: 444px;
+    height: 160px;
+    float: right;
+    margin-top: 320px;
+}
+.ttex a{
+  
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+}
+.op{
+    margin-bottom: 32px;
 
+}
